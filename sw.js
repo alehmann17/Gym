@@ -1,4 +1,4 @@
-const CACHE = "lb24-v3";
+const CACHE = "lb24-v4";
 const ASSETS = ["./", "./index.html", "./app.js", "./manifest.json", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
